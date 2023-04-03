@@ -1,4 +1,2 @@
 basic.forever(function () {
-	// 
-    // aaa
 })
